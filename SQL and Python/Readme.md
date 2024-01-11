@@ -39,3 +39,7 @@ Acknowledgment of missing data, particularly in the Age, Weight, and Height colu
 - Jupyter Notebooks
 - Matplotlib
 - SQL Database (SQLite)
+
+## Notes
+- The athlete_events csv file had to be uploaded as an Excel workbook, due to exceeding file size.
+- The project is available in pdf format and as a jupyter notebook
