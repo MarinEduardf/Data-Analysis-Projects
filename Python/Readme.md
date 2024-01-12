@@ -25,9 +25,10 @@ Matplotlib and Seaborn are employed for creating insightful visualizations that 
 
 ## Dependencies
 - Python (3.6 or higher)
-- Jupyter Notebooks
+- Pandas
 - Matplotlib and Seaborn
 - Scikit-Learn
+- Jupyter Notebooks
 
 ## Notes
 - The project is available in pdf format and as a jupyter notebook containing the source code
