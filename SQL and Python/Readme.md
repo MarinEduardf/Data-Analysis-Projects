@@ -42,4 +42,4 @@ Acknowledgment of missing data, particularly in the Age, Weight, and Height colu
 
 ## Notes
 - The athlete_events csv file had to be uploaded as an Excel workbook, due to exceeding file size.
-- The project is available in pdf format and as a jupyter notebook
+- The project is available in pdf format and as a jupyter notebook containing the source code
