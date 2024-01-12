@@ -17,22 +17,17 @@ Matplotlib is employed for creating insightful visualizations that aid in interp
 - Line charts: Understanding trends over certain periods of time
 - Histograms: Visualize how the data is spread, based on key variables
 
-
-## Implications
-The findings provide insights into the evolving landscape of Olympic events, emphasizing the need for nuanced analyses considering factors such as gender, age, and historical trends.
+### Machine Learning Models
+The project involves the implementation of logistic regression in order to visualize correlation between key variables, extracted using SQL querying
 
 ## Limitations
 Acknowledgment of missing data, particularly in the Age, Weight, and Height columns, which may influence the accuracy of certain analyses.
 
-## Usage
-- Explore the Jupyter Notebooks for detailed analyses.
-- Use the provided SQL queries for database exploration.
-- Contribute to further analysis and insights.
-
 ## Dependencies
 - Python (3.6 or higher)
-- Jupyter Notebooks
+- Pandas
 - Matplotlib
+- Jupyter Notebooks
 - SQL Database (SQLite)
 
 ## Notes
