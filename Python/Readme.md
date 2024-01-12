@@ -1,6 +1,6 @@
 ## Employee retention is a critical aspect for organizational success. 
 ### This project represents an extensive analysis with the purpose of understanding the factors influencing employee decisions to stay or leave. By applying EDA techniques and machine learning models, we identify key features that contribute to employee retention.
-**Key Features**
+**Project summary**
 ### Exploratory Data Analysis (EDA)
 The EDA phase involves exploring the dataset, understanding its structure, and identifying key variables. Python, particularly Jupyter Notebooks, is utilized for this stage.
 ### EDA Techniques:
