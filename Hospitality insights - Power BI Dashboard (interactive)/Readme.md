@@ -5,11 +5,11 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 ### Task:
 Analyze historical data and provide insights that will facilitate more informed decision-making for AtliQ Grands.
 ### Skills used:
-#### Data Loading
-#### Data Transformation using Power Query
-#### Data Modeling
-#### Created relevant Measures and Calculated columns using Data Analysis Expressions (DAX)
-#### Created insightful Dashboards in order to visualize KPI trends and other relevant information regarding AtliQ Grands’ business
+#### 1. Data Loading
+#### 2. Data Transformation using Power Query
+#### 3. Data Modeling
+#### 4. Created relevant Measures and Calculated columns using Data Analysis Expressions (DAX)
+#### 5. Created insightful Dashboards in order to visualize KPI trends and other relevant information regarding AtliQ Grands’ business
 
 ### Abbreviations of Metrics
 #### Realization = Utilized Room Nights / Booked Room Nights
